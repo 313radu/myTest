@@ -1,8 +1,15 @@
-h1 {
-  color: red;
-  text-align: center;
+body {
+  background-color: rgb(177, 177, 237);
 }
 
-#box {
-  font-size: 3rem;
+#list {
+  border: 2px solid red;
+}
+
+.element {
+  text-align: center;
+  text-wrap: wrap;
+margin: 50px;
+line-height: 35px;
+border: solid red;
 }

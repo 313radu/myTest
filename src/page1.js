@@ -4,3 +4,4 @@ export async function getData() {
         box.innerHTML = "Loading... the BOX";
     }, 3000);
 }
+
