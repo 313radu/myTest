@@ -1,5 +1,5 @@
 const list = document.getElementById("list");
-const url = "./src/data.json";
+const url = "../src/data.json";
 
 async function getRecepie() {
     try {
