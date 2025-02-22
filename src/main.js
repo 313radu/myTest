@@ -14,10 +14,14 @@ async function getRecepie() {
         data.forEach(recipe => {
             const listItem = document.createElement("li");
             listItem.className = "element";
-            listItem.innerHTML = `${recipe.ingrediente} <br> <strong>${recipe.preparare}</strong>`;
+            listItem.innerHTML = `
+            <strong>${recipe.title}</strong> <br>
+             ${recipe.ingrediente.join('')} <br> 
+             <strong>${recipe.prep}</strong> <br> 
+             ${recipe.preparare.join('')}`;
             list.appendChild(listItem);
         });
-    } catch (error) { 
+    } catch (error) {
         console.error("Eroare la încărcarea rețetelor:", error);
     }
 }

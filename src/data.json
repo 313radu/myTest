@@ -15,6 +15,7 @@
       "piper<br>",
       "chilli fulgi<br>"
     ],
+    "prep": "Preparare",
     "preparare": [
       "Folosim o tava mai mica pe care o ungem cu putin ulei de masline. In ea adaugam cateii de usturoi, caperele taiate, patrunjelul proaspat, cateva masline si rosii cu gust.<br>",
       "Continuam cu pestele decongelat, pe care il stergem bine cu servetele astfel incat sa eliminam cat mai multa apa si sa prinda o crusta usor crocanta.<br>",
@@ -41,9 +42,64 @@
       "sare și piper după gust<br>",
       "pătrunjel verde pentru presărat, la final<br>"
     ],
+    "prep": "Preparare",
     "preparare": [
       "Tot ce am mai făcut eu a fost să scot oasele mici cu penseta. Evident, rețeta se poate pregăti și cu păstrăv cu tot cu oase. Familia mea, însă, nu se atinge de peștele cu os, trebuie să-l elimin pe cel mai mic. În afară de asta, e mult mai elegant să consumi un pește filetat și complet dezosat, mai ales unul care e cu sos, așa cum este acest păstrăv cu legume la cuptor.<br>",
       "Am îndepărtat capul și coada păstrăvului. Am despărțit fiecare pește în jumătăți, obținând patru fileuri. Puteți proceda să-l tăiați în jumătăți, pe lungime, și fără să îndepărtați oasele, doar că, repet, recomandarea mea este să fie dezosat peștele. Am decupat înotătoarele și am sărat păstrăvul pe ambele părți. L-am lăsat pe tocător, la temperatura bucătăriei, să-și tragă sarea, cam 15 minute.<br>"
     ]
-  }
+  },
+    {
+      "id": 3,
+      "title": "Spicy Miso Ramen with Crispy Tofu",
+      "ingrediente": [
+        "200g ramen noodles <br>",
+        "1 block firm tofu, cubed <br>",
+        "2 tbsp cornstarch <br>",
+        "4 cups vegetable broth <br>",
+        "2 tbsp white miso paste <br>",
+        "1 tbsp gochujang <br>",
+        "2 cloves garlic, minced <br>",
+        "1 thumb-sized piece ginger, grated <br>",
+        "2 green onions, sliced <br>",
+        "1 cup baby spinach <br>",
+        "2 soft-boiled eggs <br>",
+        "1 sheet nori, cut into strips <br>",
+        "1 tbsp sesame oil <br>",
+        "Salt and pepper to tast <br>"
+      ],
+      "preparare": [
+        "Toss tofu cubes in cornstarch and air fry at 200°C for 15 minutes or until crispy.",
+        "In a pot, sauté garlic and ginger in sesame oil until fragrant.",
+        "Add broth, miso paste, and gochujang. Simmer for 5 minutes.",
+        "Cook ramen noodles according to package instructions.",
+        "Assemble bowls: noodles, broth, crispy tofu, spinach, green onions, soft-boiled egg, and nori strips.",
+        "Serve hot and enjoy your spicy miso ramen!"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Lemon Herb Roasted Chicken with Root Vegetables",
+      "ingrediente": [
+        "1 whole chicken (about 1.5kg) <br>",
+        "2 lemons, one zested and juiced, one sliced <br>",
+        "4 cloves garlic, minced <br>",
+        "2 tbsp fresh rosemary, chopped <br>",
+        "2 tbsp fresh thyme leaves <br>",
+        "3 tbsp olive oil <br>",
+        "500g mixed root vegetables (carrots, parsnips, sweet potatoes), chopped <br>",
+        "1 large onion, cut into wedges <br>",
+        "Salt and pepper to taste <br>"
+      ],
+      "preparare": [
+        "Preheat oven to 190°C.",
+        "Mix lemon zest, juice, garlic, herbs, 2 tbsp olive oil, salt, and pepper.",
+        "Rub mixture all over the chicken and under the skin.",
+        "Place lemon slices inside the chicken cavity.",
+        "In a roasting pan, toss vegetables and onion with 1 tbsp olive oil, salt, and pepper.",
+        "Place chicken on top of the vegetables.",
+        "Roast for 1 hour 15 minutes or until chicken is cooked through and vegetables are tender.",
+        "Let rest for 10 minutes before carving and serving."
+      ]
+    }
+  
 ]

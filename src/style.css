@@ -1,7 +1,9 @@
 body {
   background-color: rgb(177, 177, 237);
 }
-
+ul {
+  list-style: none;
+}
 #list {
   border: 2px solid red;
 }
@@ -9,7 +11,7 @@ body {
 .element {
   text-align: center;
   text-wrap: wrap;
-margin: 50px;
-line-height: 35px;
-border: solid red;
+  margin: 50px;
+  line-height: 35px;
+  border: solid red;
 }
