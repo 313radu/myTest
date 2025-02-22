@@ -11,12 +11,13 @@
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap"
+    rel="stylesheet">
 </head>
 
 <body>
 
-<header>
+  <!-- <header>
   <nav>
     <ul>
       <li><a href="index.html">Home</a></li>
@@ -26,12 +27,33 @@
       <li><a href="index.html?id=3">Recepie 4</a></li>
     </ul>
   </nav>
+</header> -->
+
+<header>
+  <nav>
+    <li id="link">Peste</li>
+<div class="list" style="display: none;">
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="index.html?id=0">Recepie 1</a></li>
+    <li><a href="index.html?id=1">Recepie 2</a></li>
+    <li><a href="index.html?id=2">Recepie 3</a></li>
+    <li><a href="index.html?id=3">Recepie 4</a></li>
+  </ul>
+</div>
+  </nav>
 </header>
 
   <ul id="list"></ul>
 
+<script>
+const link = document.getElementById('link');
+link.addEventListener('click', () => {
+  const list = document.querySelector('.list');
+  list.style.display = list.style.display = "block";
+});
 
-
+</script>
 
   <script type="module" src="/src/main.js"></script>
 </body>

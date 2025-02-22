@@ -106,6 +106,61 @@
         "Roast for 1 hour 15 minutes or until chicken is cooked through and vegetables are tender.",
         "Let rest for 10 minutes before carving and serving."
       ]
+    },
+    {
+      "id": 5,
+      "title": "Curry Thai cu Năut și Lapte de Cocos",
+      "picture": "https://www.printesaurbana.ro/wp-content/uploads/2020/06/curry-de-pui-la-slow-cooker-crock-pot-printesa-urbana-2.jpg",
+      "ingrediente": [
+        "400g năut fiert <br>",
+        "1 cutie de lapte de cocos (400ml) <br>",
+        "2 linguri pastă de curry galben <br>",
+        "1 ceapă medie, tocată <br>",
+        "2 căței de usturoi, tocați <br>",
+        "1 lingură ghimbir ras <br>",
+        "1 ardei gras roșu, feliat <br>",
+        "1 lingură ulei de cocos <br>",
+        "Sucul de la 1 lime <br>",
+        "Coriandru proaspăt pentru decor <br>",
+        "Sare și piper după gust <br>"
+      ],
+      "prep": "Preparare",
+      "preparare": [
+        "Sotează ceapa, usturoiul și ghimbirul în ulei de cocos până devin aurii.",
+        "Adaugă pasta de curry și gătește 2-3 minute.",
+        "Adaugă laptele de cocos și năutul. Fierbe timp de 10 minute.",
+        "Pune ardeiul gras și lasă-l pe foc încă 5 minute.",
+        "Servește cu lime și coriandru proaspăt deasupra."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Salată Asiatică cu Tofu Crocant",
+      "picture": "https://www.retetepractice.ro/wp-content/uploads/2016/11/Salata-cu-branza-tofu.jpg",
+      "ingrediente": [
+        "1 bloc de tofu ferm, cuburi <br>",
+        "2 linguri amidon de porumb <br>",
+        "1 lingură sos de soia <br>",
+        "1 linguriță ulei de susan <br>",
+        "1 morcov mare, dat pe răzătoare <br>",
+        "1/2 varză roșie, feliată subțire <br>",
+        "1 ardei gras, feliat <br>",
+        "2 linguri semințe de susan <br>",
+        "Coriandru proaspăt <br>"
+      ],
+      "dressing": [
+        "2 linguri sos de soia <br>",
+        "1 lingură oțet de orez <br>",
+        "1 linguriță miere sau sirop de arțar <br>",
+        "1 linguriță ulei de susan <br>"
+      ],
+      "prep": "Preparare",
+      "preparare": [
+        "Tăvălește tofu-ul în amidon de porumb și prăjește-l până devine crocant.",
+        "Amestecă legumele într-un bol mare.",
+        "Adaugă tofu-ul crocant deasupra și presară semințele de susan.",
+        "Toarnă dressingul și decorează cu coriandru."
+      ]
     }
   
 ]
