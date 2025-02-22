@@ -2,6 +2,7 @@
   {
     "id": 1,
     "title": "File de peste la cuptor in stil mediteranean",
+    "picture": "https://i.ytimg.com/vi/ETFWnjm-OWo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAQMCtkaTSr9RE0rNXq8LLXJsHL5A",
     "ingrediente": [
       "3 bucati peste file<br>",
       "3 linguri ulei de masline<br>",
@@ -27,6 +28,7 @@
   {
     "id": 2,
     "title": "Pastrav la cuptor cu legume",
+    "picture": "https://totuldespremame.ro/wp-content/uploads/2012/11/pastrav-cu-legume.jpg",
     "ingrediente": [
       "2 păstrăvi mărișori, fiecare au cântărit în jur de 450 de grame <br>",
       "1 ceapă (100 de grame)<br>",
@@ -51,6 +53,7 @@
     {
       "id": 3,
       "title": "Spicy Miso Ramen with Crispy Tofu",
+      "picture": "https://i0.wp.com/superhappywinfood.co.uk/wp-content/uploads/2022/09/vegan-mushroom-ramen.jpg?fit=1920%2C1080&ssl=1",
       "ingrediente": [
         "200g ramen noodles <br>",
         "1 block firm tofu, cubed <br>",
@@ -67,6 +70,7 @@
         "1 tbsp sesame oil <br>",
         "Salt and pepper to tast <br>"
       ],
+      "prep": "Preparare",
       "preparare": [
         "Toss tofu cubes in cornstarch and air fry at 200°C for 15 minutes or until crispy.",
         "In a pot, sauté garlic and ginger in sesame oil until fragrant.",
@@ -79,6 +83,7 @@
     {
       "id": 4,
       "title": "Lemon Herb Roasted Chicken with Root Vegetables",
+      "picture": "https://hips.hearstapps.com/hmg-prod/images/roast-chicken-recipe-2-66b231ac9a8fb.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
       "ingrediente": [
         "1 whole chicken (about 1.5kg) <br>",
         "2 lemons, one zested and juiced, one sliced <br>",
@@ -90,6 +95,7 @@
         "1 large onion, cut into wedges <br>",
         "Salt and pepper to taste <br>"
       ],
+      "prep": "Preparare",  
       "preparare": [
         "Preheat oven to 190°C.",
         "Mix lemon zest, juice, garlic, herbs, 2 tbsp olive oil, salt, and pepper.",
